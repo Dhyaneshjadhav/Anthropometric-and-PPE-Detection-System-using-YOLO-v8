@@ -58,7 +58,7 @@ This project aims to provide robust detection models for identifying persons and
   Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
 ## License
-  This project is licensed under the MIT License. See the LICENSE file for details.
+  This project is licensed under the Apache lisence. See the LICENSE file for details.
 
   ```sh
     This corrected version ensures that the "Install dependencies" section and everything following it is correctly included in the `README.md` file.
