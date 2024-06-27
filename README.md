@@ -54,10 +54,10 @@ This project aims to provide robust detection models for identifying persons and
   4.**Annotation Conversion Script:**
     The convert_annotations.py script converts annotation files from Pascal VOC format to YOLO format. This is useful for preparing datasets for training models that require YOLO     format annotations.
 
-##Contributing
+## Contributing
   Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
-##License
+## License
   This project is licensed under the MIT License. See the LICENSE file for details.
 
   ```sh
