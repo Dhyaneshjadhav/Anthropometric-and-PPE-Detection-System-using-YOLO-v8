@@ -1,6 +1,6 @@
 # Detection Models Project
 
-This repository contains two detection models: a person detection model and a PPE (Personal Protective Equipment) detection model. Additionally, it includes a script (`inference.py`) that takes both models as inputs and outputs the detection results. There is also a script that converts annotations from Pascal VOC format to YOLO format.
+This repository contains two detection models: a person detection model and a PPE (Personal Protective Equipmet) detection model. Additionally, it includes a script (`inference.py`) that takes both models as inputs and outputs the detection results. There is also a script that converts annotations from Pascal VOC format to YOLO format.
 
 ## Table of Contents
 
@@ -26,3 +26,10 @@ This project aims to provide robust detection models for identifying persons and
    ```sh
    git clone git@github.com:yourusername/your-repository-name.git
    cd your-repository-name
+2. **Install dependencies:**
+
+   pip install -r requirements.txt
+   
+3.**Running the Inference Script:**
+  To run the inference.py script, use the following command:
+   
